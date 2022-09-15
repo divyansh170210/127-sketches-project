@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(to left, #acb6e5, #86fde8);
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+#score{
+background-color: rgb(4, 255, 0);
+margin-right: 20pc;
+color: blue;
+}
+#timer{
+    background-color: rgb(8, 171, 236);
+    color: red;
+    margin-left: 70pc;
+}
+#sketch{
+    color: rgb(198, 15, 67);
+}
+#label{
+    color:rebeccapurple;
+}
+#confidence{
+    color: rgb(55, 0, 255);
+}
+h1{
+    background: black;
+    color: gold;
+}
+#show_sketch{
+    float: right;
+    background-color: yellow;
+    color: grey;
+    height: 40px;
+    font-size: 21px;
+}
